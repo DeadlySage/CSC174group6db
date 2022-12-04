@@ -1,6 +1,11 @@
 # CSC174group6db
 CSC 174 Group 6 Pokedex DB
 
+<strong>Members</strong>\
+Adrian Tandiono\
+Erik Sanchez Ambriz\
+Ardeniel Ulangkaya
+
 <strong>Live Website</strong>\
 https://csc174group6db.herokuapp.com/
 
